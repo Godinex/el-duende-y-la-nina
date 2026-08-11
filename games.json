@@ -1,326 +1,218 @@
 [
   {
-    "nombre": "Age of Gods",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "3-5",
-    "edad": "12+",
-    "foto": "placeholder.svg"
+    "nombre": "Microbe (Funiworker)",
+    "precio": 8000,
+    "estado": "usado",
+    "descripcion": "Juego de destreza con pinzas: atrapá microbios de colores y formas en placas de Petri, compitiendo por velocidad y lógica.",
+    "jugadores": "2-4",
+    "edad": "3+",
+    "foto": "assets/games/microbe.jpg"
   },
   {
-    "nombre": "Ascension: Chronicle of the Godslayer – Control Room Promo",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "1-4",
+    "nombre": "Bounce Spiders",
+    "precio": 5000,
+    "estado": "usado",
+    "descripcion": "Juego de catapulta con temática de arañas y telaraña, incluye temporizador de arena. Ideal para familias con niños pequeños.",
+    "jugadores": "2-4",
+    "edad": "3+",
+    "foto": "assets/games/bounce-spiders.jpg"
+  },
+  {
+    "nombre": "Rivals for Catan",
+    "precio": 12000,
+    "estado": "nuevo",
+    "descripcion": "Versión de 2 jugadores del universo Catan, en formato de juego de cartas. Diseño de Klaus Teuber. Nuevo, sellado.",
+    "jugadores": "2",
     "edad": "10+",
-    "foto": "placeholder.svg"
+    "foto": "assets/games/rivals-catan.jpg"
   },
   {
-    "nombre": "Ascension: Chronicle of the Godslayer – Deep Drone Promo",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-4",
-    "edad": "",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Ascension: Chronicle of the Godslayer – Journeyman Sage Promo",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "1-6",
-    "edad": "",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Ascension: Chronicle of the Godslayer – Nethersnare Promo",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "1-6",
-    "edad": "",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Ascension: Chronicle of the Godslayer – Pathwarden Promo",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-4",
-    "edad": "",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Ascension: Chronicle of the Godslayer – Vedah, Sage of Swords Promo",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-4",
-    "edad": "",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Ascension: Chronicle of the Godslayer – Void Mesmer Promo",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "1-4",
-    "edad": "",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Ascension: Chronicle of the Godslayer – Vortex Promo",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-4",
-    "edad": "",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Ascension: Return of the Fallen – Kythis, the Gatekeeper Promo",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "1-2",
-    "edad": "8",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Ascension: Storm of Souls – Askara of Fortune Promo",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "1-6",
+    "nombre": "Yahtzee",
+    "precio": 8000,
+    "estado": "nuevo",
+    "descripcion": "El clásico juego de dados 'shake, score and shout'. Edición Hasbro Gaming. Nuevo, sellado.",
+    "jugadores": "2+",
     "edad": "8+",
-    "foto": "placeholder.svg"
+    "foto": "assets/games/yahtzee.jpg"
   },
   {
-    "nombre": "Atlanteon",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-2",
-    "edad": "10+",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "The Binding of Isaac: Four Souls",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-4",
+    "nombre": "Axis & Allies 1941",
+    "precio": 15000,
+    "estado": "nuevo",
+    "descripcion": "Juego de estrategia de la Segunda Guerra Mundial con más de 160 piezas de juego. Diseño de Larry Harris. Sellado.",
+    "jugadores": "2-5",
     "edad": "12+",
-    "foto": "placeholder.svg"
+    "foto": "assets/games/axis-allies-1941.jpg"
   },
   {
-    "nombre": "Condottiere",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-6",
-    "edad": "10+",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Cube Quest",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-4",
-    "edad": "5+",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Draco Magi",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-2",
-    "edad": "10+",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Dreamblade",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-2",
-    "edad": "12+",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Epic Card Game",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
+    "nombre": "Reign: The Final Battle Royale",
+    "precio": 18000,
+    "estado": "nuevo",
+    "descripcion": "Juego de combate por turnos estilo battle royale. PlayMonster, 30-45 min de duración.",
     "jugadores": "2-4",
     "edad": "8+",
-    "foto": "placeholder.svg"
+    "foto": "assets/games/reign.jpg"
   },
   {
-    "nombre": "Gloom",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
+    "nombre": "Pan's Island",
+    "precio": 20000,
+    "estado": "nuevo",
+    "descripcion": "Juego cooperativo ambientado en el mundo de Peter Pan/Neverland: buscá a los niños perdidos usando pistas. Matagot. Nuevo, sellado.",
     "jugadores": "2-5",
     "edad": "10+",
-    "foto": "placeholder.svg"
+    "foto": "assets/games/pans-island.jpg"
   },
   {
-    "nombre": "Great Wall of China",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
+    "nombre": "Ticket to Ride: Europe",
+    "precio": 20000,
+    "estado": "nuevo",
+    "descripcion": "Clásico de construcción de rutas ferroviarias por Europa. Diseño de Alan R. Moon, Days of Wonder. Nuevo, sellado.",
     "jugadores": "2-5",
     "edad": "8+",
-    "foto": "placeholder.svg"
+    "foto": "assets/games/ticket-to-ride-europe.jpg"
   },
   {
-    "nombre": "Gremlins: Gizmo's Great Escape",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-2",
+    "nombre": "Connect 4 (Card Game)",
+    "precio": 5000,
+    "estado": "nuevo",
+    "descripcion": "Versión de cartas del clásico Conecta 4. Hasbro Gaming. Nuevo.",
+    "jugadores": "2-4",
     "edad": "6+",
-    "foto": "placeholder.svg"
+    "foto": "assets/games/card-games-4pack.jpg"
   },
   {
-    "nombre": "Hare & Tortoise",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-6",
+    "nombre": "Clue (Card Game)",
+    "precio": 5000,
+    "estado": "nuevo",
+    "descripcion": "Versión de cartas del clásico juego de misterio y deducción Clue. Hasbro Gaming. Nuevo.",
+    "jugadores": "3-4",
     "edad": "8+",
-    "foto": "placeholder.svg"
+    "foto": "assets/games/card-games-4pack.jpg"
   },
   {
-    "nombre": "Head Full of Numbers",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-2",
-    "edad": "",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Heroes of Graxia",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-6",
-    "edad": "10+",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "The Lord of the Rings: The Fellowship of the Ring Deck-Building Game",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-5",
-    "edad": "10+",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Oshi",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-2",
-    "edad": "8+",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Perfection",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "1-99",
-    "edad": "4–12",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Pictureka!",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-7",
-    "edad": "4+",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Roll Through the Ages: The Bronze Age",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "1-4",
-    "edad": "8+",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Sapiens",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-4",
-    "edad": "8+",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Scrabble Junior",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-4",
+    "nombre": "Guess Who? (Card Game)",
+    "precio": 5000,
+    "estado": "nuevo",
+    "descripcion": "Versión de cartas del clásico juego de adivinar personajes. Hasbro Gaming. Nuevo.",
+    "jugadores": "2",
     "edad": "5+",
-    "foto": "placeholder.svg"
+    "foto": "assets/games/card-games-4pack.jpg"
   },
   {
-    "nombre": "Timbuktu",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "3-5",
-    "edad": "10+",
-    "foto": "placeholder.svg"
+    "nombre": "Battleship (Card Game)",
+    "precio": 5000,
+    "estado": "nuevo",
+    "descripcion": "Versión de cartas del clásico juego de batalla naval. Hasbro Gaming. Nuevo.",
+    "jugadores": "2",
+    "edad": "7+",
+    "foto": "assets/games/card-games-4pack.jpg"
   },
   {
-    "nombre": "Toledo",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-4",
-    "edad": "8+",
-    "foto": "placeholder.svg"
+    "nombre": "Bananagrams",
+    "precio": 10000,
+    "estado": "nuevo",
+    "descripcion": "Juego rápido de formar palabras (tipo Scrabble sin tablero), en su clásica bolsita amarilla con forma de banana. Compacto e ideal para grupos grandes.",
+    "jugadores": "1-8",
+    "edad": "7+",
+    "foto": "assets/games/bananagrams.jpg"
   },
   {
-    "nombre": "Via Appia",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-4",
-    "edad": "8+",
-    "foto": "placeholder.svg"
-  },
-  {
-    "nombre": "Warhammer 40,000 (Third Edition)",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-6",
+    "nombre": "Tiny Laser Heist",
+    "precio": 15000,
+    "estado": "nuevo",
+    "descripcion": "Robo de joyas cooperativo con 'manitas' de plástico, evitando láseres elásticos. Very Special Games, 30-45 min. Nuevo, sellado.",
+    "jugadores": "3-6",
     "edad": "12+",
-    "foto": "placeholder.svg"
+    "foto": "assets/games/tiny-laser-heist.jpg"
   },
   {
-    "nombre": "World of Warcraft Trading Card Game",
-    "precio": null,
-    "estado": "",
-    "descripcion": "",
-    "jugadores": "2-2",
+    "nombre": "Bloomchasers",
+    "precio": 15000,
+    "estado": "nuevo",
+    "descripcion": "Juego de estrategia con árbol 3D: colocá ramas y flores para 'florecer' antes que tus rivales. Very Special Games. Nuevo, sellado.",
+    "jugadores": "1-6",
+    "edad": "12+",
+    "foto": "assets/games/bloomchasers.jpg"
+  },
+  {
+    "nombre": "Valentine's Day",
+    "precio": 12000,
+    "estado": "nuevo",
+    "descripcion": "Juego de cartas rápido (15 min), Blue Orange Games. Nuevo, sellado.",
+    "jugadores": "3-6",
+    "edad": "8+",
+    "foto": "assets/games/valentines-day.jpg"
+  },
+  {
+    "nombre": "Mystery Advent Calendar",
+    "precio": 8000,
+    "estado": "nuevo",
+    "descripcion": "Calendario de adviento con un misterio en 24 episodios: 'El viaje de Charlie alrededor del mundo'. Hidden Games. Nuevo, sellado.",
+    "jugadores": "1-6",
+    "edad": "14+",
+    "foto": "assets/games/mystery-advent-calendar.jpg"
+  },
+  {
+    "nombre": "Wavelength",
+    "precio": 18000,
+    "estado": "nuevo",
+    "descripcion": "Juego de percepción y comunicación en equipo: hay que adivinar dónde cae una idea en un espectro. Ideal para grupos grandes. Nuevo, sellado.",
+    "jugadores": "2-12",
+    "edad": "14+",
+    "foto": "assets/games/wavelength.jpg"
+  },
+  {
+    "nombre": "Anomia: Party Edition",
+    "precio": 15000,
+    "estado": "nuevo",
+    "descripcion": "Juego de reacción rápida y asociación de palabras. Uno de los más populares para reuniones sociales. Nuevo, sellado.",
+    "jugadores": "3+",
     "edad": "10+",
-    "foto": "placeholder.svg"
+    "foto": "assets/games/anomia.jpg"
+  },
+  {
+    "nombre": "Othello Classic",
+    "precio": 15000,
+    "estado": "usado",
+    "descripcion": "Clásico juego de fichas reversibles: 'un minuto para aprender, toda una vida para dominar'. Funskool.",
+    "jugadores": "2",
+    "edad": "7+",
+    "foto": "assets/games/othello.jpg"
+  },
+  {
+    "nombre": "Lacuna",
+    "precio": 15000,
+    "estado": "nuevo",
+    "descripcion": "Juego de flores en un estanque nocturno, con piezas de madera y fichas metálicas, empacado en un vistoso tubo. CMYK, 10-15 min. Nuevo, sellado.",
+    "jugadores": "2",
+    "edad": "8+",
+    "foto": "assets/games/lacuna.jpg"
+  },
+  {
+    "nombre": "Venn",
+    "precio": 8000,
+    "estado": "nuevo",
+    "descripcion": "Juego de pistas con diagramas de Venn y arte superpuesto. The Op Games, 20-30 min. Nuevo, sellado.",
+    "jugadores": "2+",
+    "edad": "10+",
+    "foto": "assets/games/venn.jpg"
+  },
+  {
+    "nombre": "Komboid",
+    "precio": 5000,
+    "estado": "nuevo",
+    "descripcion": "Juguete de destreza: hacé rebotar una bola con la muñeca siguiendo combos de tarjetas de reto. Incluye bola de repuesto. Nuevo, sellado.",
+    "jugadores": "1+",
+    "edad": "8+",
+    "foto": "assets/games/komboid.jpg"
+  },
+  {
+    "nombre": "Pindaloo",
+    "precio": 8000,
+    "estado": "usado",
+    "descripcion": "Juguete de destreza tipo aro con muñequera y bola ('Get in the Loop').",
+    "jugadores": "1+",
+    "edad": "9+",
+    "foto": "assets/games/pindaloo.jpg"
   }
 ]

@@ -1,4 +1,4 @@
-// ⚠️ CONFIGURACIÓN — reemplazá con tus datos reales antes de publicar
+// ⚠️ CONFIGURACIÓN — reemplazá con tu número real antes de publicar
 const WHATSAPP_NUMBER = "50600000000"; // formato: código de país + número, sin espacios ni +
 
 let allGames = [];
@@ -10,15 +10,11 @@ async function loadGames() {
 }
 
 function formatPrice(n) {
-  if (n === null || n === undefined || n === '') return 'Precio a consultar';
   return '₡' + n.toLocaleString('es-CR');
 }
 
 function whatsappLink(game) {
-  const precioTxt = (game.precio === null || game.precio === undefined || game.precio === '')
-    ? ''
-    : ` (${formatPrice(game.precio)})`;
-  const msg = `Hola! Me interesa el juego "${game.nombre}"${precioTxt} que vi en El Duende y la Niña.`;
+  const msg = `Hola! Me interesa el juego "${game.nombre}" (${formatPrice(game.precio)}) que vi en El Duende y la Niña.`;
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(msg)}`;
 }
 
@@ -30,7 +26,7 @@ function render() {
 
   let games = allGames.filter(g => {
     const matchesQuery = g.nombre.toLowerCase().includes(query);
-    const matchesEstado = !estado || g.estado === estado || !g.estado;
+    const matchesEstado = !estado || g.estado === estado;
     return matchesQuery && matchesEstado;
   });
 
@@ -48,14 +44,13 @@ function render() {
   catalog.innerHTML = games.map(g => `
     <article class="card">
       <div class="card-photo">
-        ${g.estado ? `<span class="badge ${g.estado}">${g.estado}</span>` : ''}
-        <img src="${g.foto}" alt="${g.nombre}" loading="lazy"
-             onerror="this.onerror=null;this.src='placeholder.svg';">
+        <span class="badge ${g.estado}">${g.estado}</span>
+        <img src="${g.foto}" alt="${g.nombre}" loading="lazy">
       </div>
       <div class="card-body">
         <h3>${g.nombre}</h3>
-        <p class="meta">${g.jugadores ? g.jugadores + ' jugadores' : ''}${g.jugadores && g.edad ? ' · ' : ''}${g.edad || ''}</p>
-        <p class="desc">${g.descripcion || ''}</p>
+        <p class="meta">${g.jugadores} jugadores · ${g.edad}</p>
+        <p class="desc">${g.descripcion}</p>
         <div class="card-footer">
           <span class="price">${formatPrice(g.precio)}</span>
           <a class="buy-btn" href="${whatsappLink(g)}" target="_blank" rel="noopener">Consultar</a>

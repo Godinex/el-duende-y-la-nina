@@ -16,20 +16,9 @@ por tu número real, con código de país y sin espacios ni `+`. Ejemplo para Co
 const WHATSAPP_NUMBER = "50688888888";
 ```
 
-## Pendiente de completar (importado de BGG)
+## 2. Agregar más juegos
 
-Ya cargué los 36 juegos marcados como "for trade" en tu colección de BGG. A cada uno le falta:
-
-- **`precio`**: está en `null`. Completalo con el número en colones (ej. `15000`).
-- **`estado`**: está vacío (`""`). Poné `"nuevo"` o `"usado"` según corresponda — mientras esté vacío, la tarjeta no muestra la etiqueta pero funciona igual.
-- **`foto`**: apunta a `placeholder.svg`. Reemplazalo por una foto real tuya (ver sección 3).
-- **`descripcion`**: vacía, podés agregar una frase corta si querés.
-
-El sitio ya soporta que estos campos estén vacíos sin romperse (muestra "Precio a consultar" y esconde la etiqueta de estado), así que podés publicarlo ya y completarlo de a poco.
-
-## 2. Agregar tus juegos
-
-Abrí `games.json` y agregá un bloque por juego (podés copiar y pegar uno existente y editarlo):
+Abrí `games.json` y agregá un bloque por juego (copiá y pegá uno existente y editalo):
 
 ```json
 {
@@ -39,19 +28,23 @@ Abrí `games.json` y agregá un bloque por juego (podés copiar y pegar uno exis
   "descripcion": "Una frase corta sobre el juego.",
   "jugadores": "2-4",
   "edad": "8+",
-  "foto": "nombre-del-juego.jpg"
+  "foto": "assets/games/nombre-del-juego.jpg"
 }
 ```
 
 `estado` solo puede ser `"nuevo"` o `"usado"`.
 
-## 3. Agregar fotos
+## 3. Cuando se vende un juego
 
-Poné las fotos de tus juegos dentro de la raíz del repo (junto a index.html) y referenciá el nombre del archivo en el campo `"foto"` de cada juego en `games.json`. Mientras no tengas foto, dejá `"placeholder.svg"`.
+Borrá su bloque completo de `games.json` y hacé push otra vez — el sitio se actualiza solo.
 
-## 4. Publicar con GitHub Pages
+## 4. Agregar fotos
 
-1. Subí todos estos archivos a tu repo `duende-y-la-nina` (raíz del repo, no en una subcarpeta).
+Poné las fotos dentro de `assets/games/` y referenciá el nombre del archivo en el campo `"foto"`. Mientras no tengas foto, usá `"assets/placeholder.svg"`.
+
+## 5. Publicar con GitHub Pages
+
+1. Subí todos estos archivos a tu repo `el-duende-y-la-nina` (raíz del repo, no en una subcarpeta).
 2. En GitHub, andá a **Settings → Pages**.
 3. En "Source" elegí la rama `main` y carpeta `/ (root)`.
 4. Guardá. En unos minutos tu sitio va a estar en:
