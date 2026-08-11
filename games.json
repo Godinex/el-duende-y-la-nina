@@ -207,6 +207,276 @@
     "foto": "komboid.jpg"
   },
   {
+    "nombre": "Crazy Flower",
+    "precio": 12000,
+    "estado": "usado",
+    "descripcion": "Juego de ambientación natural con un gran árbol en flor: margaritas, girasoles y cerezos sobre un prado soleado. Arte ilustrado muy vistoso.",
+    "jugadores": "",
+    "edad": "",
+    "foto": "crazy-flower.jpg"
+  },
+  {
+    "nombre": "Sequence Classic",
+    "precio": 15000,
+    "estado": "usado",
+    "descripcion": "Clásico de estrategia y suerte: jugá una carta y colocá una ficha en el tablero, buscando alinear cinco en fila. Fácil de aprender, ideal para jugar por equipos.",
+    "jugadores": "2-12",
+    "edad": "7+",
+    "foto": "sequence.jpg"
+  },
+  {
+    "nombre": "Zillionaires: Road Trip USA",
+    "precio": 12000,
+    "estado": "usado",
+    "descripcion": "Juego de subastas y faroleo: pujá y negociá para quedarte con 49 atracciones reales de carretera de Estados Unidos. Big Potato Games. Requiere inglés.",
+    "jugadores": "2-5",
+    "edad": "8+",
+    "foto": "zillionaires.jpg"
+  },
+  {
+    "nombre": "The Great American Mail Race",
+    "precio": 14000,
+    "estado": "usado",
+    "descripcion": "Carrera de reparto postal a través de Estados Unidos, con licencia oficial del USPS. Big Potato Games, 45 min de partida.",
+    "jugadores": "2-4",
+    "edad": "10+",
+    "foto": "great-american-mail-race.jpg"
+  },
+  {
+    "nombre": "Trekking the World (Second Edition)",
+    "precio": 15000,
+    "estado": "nuevo",
+    "descripcion": "Juego de viajes por el mundo: recorré destinos famosos, coleccioná souvenirs y cumplí itinerarios. Segunda edición, sellado.",
+    "jugadores": "2-5",
+    "edad": "10+",
+    "foto": "trekking-the-world.jpg"
+  },
+  {
+    "nombre": "Poetry for Neanderthals (pack: base + NSFW Edition)",
+    "precio": 15000,
+    "estado": "usado",
+    "descripcion": "Los dos juegos juntos. Juego de palabras donde solo podés hablar en monosílabos: si te pasás, te pegan con el garrote inflable. Exploding Kittens. La edición NSFW tiene contenido explícito (17+).",
+    "jugadores": "2+",
+    "edad": "7+ / 17+ (NSFW)",
+    "foto": "poetry-for-neanderthals.jpg"
+  },
+  {
+    "nombre": "Fireworks",
+    "precio": 18000,
+    "estado": "nuevo",
+    "descripcion": "Gatos pirotécnicos compiten por el mejor espectáculo: lanzá el dado desde el barril a la caja y quedate con las losetas que caigan boca arriba. Renegade Game Studios, 20 min. Sellado.",
+    "jugadores": "2-4",
+    "edad": "6+",
+    "foto": "fireworks.jpg"
+  },
+  {
+    "nombre": "Antiquity Quest",
+    "precio": 10000,
+    "estado": "nuevo",
+    "descripcion": "Juego de cartas de colecciones al estilo Canasta o Hand and Foot: sos arqueólogo y armás colecciones de antigüedades mientras los rivales intentan arruinarlas. Grandpa Beck's Games, 30-45 min. Sellado.",
+    "jugadores": "2-8",
+    "edad": "10+",
+    "foto": "antiquity-quest.jpg"
+  },
+  {
+    "nombre": "Trapwords",
+    "precio": 12000,
+    "estado": "usado",
+    "descripcion": "Juego de dar pistas por equipos con giro fantástico: el equipo rival define en secreto las palabras prohibidas que no podés usar. Czech Games Edition.",
+    "jugadores": "4-8",
+    "edad": "10+",
+    "foto": "trapwords.jpg"
+  },
+  {
+    "nombre": "Draft'd",
+    "precio": 8000,
+    "estado": "usado",
+    "descripcion": "Juego de fiesta: armá tu equipo eligiendo cartas para cada tema propuesto y defendé por qué tu combinación es la mejor. Spin Master Games. Requiere inglés.",
+    "jugadores": "3+",
+    "edad": "14+",
+    "foto": "draftd.jpg"
+  },
+  {
+    "nombre": "Five Crowns",
+    "precio": 5000,
+    "estado": "usado",
+    "descripcion": "Juego de cartas estilo Rummy con cinco palos: en cada ronda cambia el comodín y la partida no termina hasta que los reyes se vuelven salvajes. Set Enterprises.",
+    "jugadores": "1-7",
+    "edad": "8+",
+    "foto": "five-crowns.jpg"
+  },
+  {
+    "nombre": "Own the Libs",
+    "precio": 2500,
+    "estado": "nuevo",
+    "descripcion": "Juego de fiesta de cartas con temática de sátira política estadounidense. En inglés. Sellado.",
+    "jugadores": "3+",
+    "edad": "17+",
+    "foto": "own-the-libs.jpg"
+  },
+  {
+    "nombre": "Sippin'",
+    "precio": 1500,
+    "estado": "usado",
+    "descripcion": "Juego de fiesta de cartas con referencias de cultura pop. CardPlug. En inglés. Caja con desgaste en las esquinas.",
+    "jugadores": "3+",
+    "edad": "18+",
+    "foto": "sippin.jpg"
+  },
+  {
+    "nombre": "Terraforming Mars: Ares Expedition",
+    "precio": 20000,
+    "estado": "usado",
+    "descripcion": "Versión en cartas del clásico Terraforming Mars: construí motores de producción y terraformá el planeta en partidas mucho más rápidas. Stronghold Games / FryxGames.",
+    "jugadores": "1-4",
+    "edad": "14+",
+    "foto": "terraforming-mars-ares.jpg"
+  },
+  {
+    "nombre": "Magnetic Chess (juego de estrategia magnético)",
+    "precio": 8000,
+    "estado": "usado",
+    "descripcion": "Juego de estrategia abstracto con tablero y bolas magnéticas: colocá tus piezas evitando que la atracción magnética arrastre las de tu rival hacia las tuyas.",
+    "jugadores": "2",
+    "edad": "8+",
+    "foto": "magnetic-chess.jpg"
+  },
+  {
+    "nombre": "War & Peace",
+    "precio": 15000,
+    "estado": "usado",
+    "descripcion": "Wargame de las guerras napoleónicas: dirigí ejércitos y flotas por Europa en campañas de estrategia histórica. Worthington Games.",
+    "jugadores": "2",
+    "edad": "12+",
+    "foto": "war-and-peace.jpg"
+  },
+  {
+    "nombre": "Throw Throw Burrito: Extreme Outdoor Edition",
+    "precio": 15000,
+    "estado": "usado",
+    "descripcion": "Juego de cartas y quemados a la vez: juntá tríos mientras esquivás burritos inflables gigantes. Edición para exteriores con cartas jumbo resistentes al agua. Exploding Kittens.",
+    "jugadores": "2-6",
+    "edad": "7+",
+    "foto": "throw-throw-burrito-extreme.jpg"
+  },
+  {
+    "nombre": "Apples to Apples Junior",
+    "precio": 10000,
+    "estado": "usado",
+    "descripcion": "El clásico juego de comparaciones disparatadas, en versión para niños: jugá la carta que mejor combine con el adjetivo de la ronda y convencé al juez. Out of the Box.",
+    "jugadores": "4-10",
+    "edad": "9+",
+    "foto": "apples-to-apples-junior.jpg"
+  },
+  {
+    "nombre": "OjO Shape Factory",
+    "precio": 16000,
+    "estado": "nuevo",
+    "descripcion": "Juego educativo de geometría: armá figuras combinando piezas de distintas formas y descubrí cómo encajan entre sí. Enfoque STREAM, con app complementaria. Sellado.",
+    "jugadores": "1-4",
+    "edad": "4+",
+    "foto": "ojo-shape-factory.jpg"
+  },
+  {
+    "nombre": "OjO Robot Workshop",
+    "precio": 16000,
+    "estado": "nuevo",
+    "descripcion": "Juego educativo de robótica: diseñá y construí robots para misiones espaciales en un mundo alienígena. Enfoque STREAM, avalado por Purdue University. Sellado.",
+    "jugadores": "1-4",
+    "edad": "5-8+",
+    "foto": "ojo-robot-workshop.jpg"
+  },
+  {
+    "nombre": "Millennial Lotería: Y2K Edition",
+    "precio": 10000,
+    "estado": "nuevo",
+    "descripcion": "La lotería mexicana clásica reinventada con humor generacional: cartas como El Emo y El Millennium, con estética de los 2000. Sellado.",
+    "jugadores": "2-8",
+    "edad": "8+",
+    "foto": "millennial-loteria-y2k.jpg"
+  },
+  {
+    "nombre": "Sunken Sailor",
+    "precio": 16000,
+    "estado": "nuevo",
+    "descripcion": "Juego de fiesta de dibujo y engaño: todos dibujan lo mismo salvo un impostor que no sabe qué es, y hay que descubrirlo. Advertencia de contenido explícito. Sellado.",
+    "jugadores": "4-10",
+    "edad": "17+",
+    "foto": "sunken-sailor.jpg"
+  },
+  {
+    "nombre": "Live Laugh Lose",
+    "precio": 5000,
+    "estado": "usado",
+    "descripcion": "Juego de fiesta donde competís por hacer reír a tus amigos leyendo los chistes más malos del mundo, con instrucciones absurdas de cómo contarlos. De los creadores de What Do You Meme?",
+    "jugadores": "3-8",
+    "edad": "17+",
+    "foto": "live-laugh-lose.jpg"
+  },
+  {
+    "nombre": "Klask",
+    "precio": 25000,
+    "estado": "usado",
+    "descripcion": "Juego de destreza tipo air hockey magnético: movés tu pieza desde abajo del tablero con un imán para meter la bola en el hoyo rival. Diseñado en Dinamarca, 10 min por partida. Caja con desgaste y etiquetas de envío.",
+    "jugadores": "2",
+    "edad": "8+",
+    "foto": "klask.jpg"
+  },
+  {
+    "nombre": "Pokie Dokie",
+    "precio": 12000,
+    "estado": "usado",
+    "descripcion": "Juego de palabras ultrarrápido: empujá las letras correctas antes de que se acabe el reloj de arena. Marbles Brain Workshop, 10 min por partida.",
+    "jugadores": "1-4",
+    "edad": "8+",
+    "foto": "pokie-dokie.jpg"
+  },
+  {
+    "nombre": "Spaceteam",
+    "precio": 5000,
+    "estado": "usado",
+    "descripcion": "Juego cooperativo caótico y a contrarreloj: todos gritan a la vez pidiendo las herramientas que necesitan para reparar la nave antes de que explote. Caja con desgaste en las esquinas.",
+    "jugadores": "3-6",
+    "edad": "10+",
+    "foto": "spaceteam.jpg"
+  },
+  {
+    "nombre": "Where in the World is Carmen Sandiego? (Card Game)",
+    "precio": 5000,
+    "estado": "usado",
+    "descripcion": "Juego de cartas basado en el clásico de computadora: seguí las pistas por el mundo para atrapar a Carmen Sandiego. Pressman.",
+    "jugadores": "2-4",
+    "edad": "8+",
+    "foto": "carmen-sandiego.jpg"
+  },
+  {
+    "nombre": "Citadels Classic",
+    "precio": 14000,
+    "estado": "nuevo",
+    "descripcion": "Clásico de faroleo y selección de personajes: elegí en secreto un rol cada ronda para construir tu ciudad medieval mientras saboteás a los rivales. Diseño de Bruno Faidutti, Z-Man Games. Sellado.",
+    "jugadores": "2-7",
+    "edad": "10+",
+    "foto": "citadels.jpg"
+  },
+  {
+    "nombre": "ION",
+    "precio": 8000,
+    "estado": "usado",
+    "descripcion": "Juego de cartas y dados con retos, para grupos grandes. Caja negra minimalista con desgaste superficial.",
+    "jugadores": "2-10",
+    "edad": "7+",
+    "foto": "ion.jpg"
+  },
+  {
+    "nombre": "Solitario de Madera Maciza",
+    "precio": 12000,
+    "estado": "usado",
+    "descripcion": "Rompecabezas de estrategia clásico: tablero circular de madera maciza con canicas negras. Saltá una ficha sobre otra hasta dejar una sola.",
+    "jugadores": "1+",
+    "edad": "6+",
+    "foto": "solitario-madera.jpg"
+  },
+  {
     "nombre": "Pindaloo",
     "precio": 8000,
     "estado": "usado",
