@@ -6,7 +6,7 @@
     "descripcion": "Juego de destreza con pinzas: atrapá microbios de colores y formas en placas de Petri, compitiendo por velocidad y lógica.",
     "jugadores": "2-4",
     "edad": "3+",
-    "foto": "assets/games/microbe.jpg"
+    "foto": "microbe.jpg"
   },
   {
     "nombre": "Bounce Spiders",
@@ -15,7 +15,7 @@
     "descripcion": "Juego de catapulta con temática de arañas y telaraña, incluye temporizador de arena. Ideal para familias con niños pequeños.",
     "jugadores": "2-4",
     "edad": "3+",
-    "foto": "assets/games/bounce-spiders.jpg"
+    "foto": "bounce-spiders.jpg"
   },
   {
     "nombre": "Rivals for Catan",
@@ -24,7 +24,7 @@
     "descripcion": "Versión de 2 jugadores del universo Catan, en formato de juego de cartas. Diseño de Klaus Teuber. Nuevo, sellado.",
     "jugadores": "2",
     "edad": "10+",
-    "foto": "assets/games/rivals-catan.jpg"
+    "foto": "rivals-catan.jpg"
   },
   {
     "nombre": "Yahtzee",
@@ -33,7 +33,7 @@
     "descripcion": "El clásico juego de dados 'shake, score and shout'. Edición Hasbro Gaming. Nuevo, sellado.",
     "jugadores": "2+",
     "edad": "8+",
-    "foto": "assets/games/yahtzee.jpg"
+    "foto": "yahtzee.jpg"
   },
   {
     "nombre": "Axis & Allies 1941",
@@ -42,7 +42,7 @@
     "descripcion": "Juego de estrategia de la Segunda Guerra Mundial con más de 160 piezas de juego. Diseño de Larry Harris. Sellado.",
     "jugadores": "2-5",
     "edad": "12+",
-    "foto": "assets/games/axis-allies-1941.jpg"
+    "foto": "axis-allies-1941.jpg"
   },
   {
     "nombre": "Reign: The Final Battle Royale",
@@ -51,7 +51,7 @@
     "descripcion": "Juego de combate por turnos estilo battle royale. PlayMonster, 30-45 min de duración.",
     "jugadores": "2-4",
     "edad": "8+",
-    "foto": "assets/games/reign.jpg"
+    "foto": "reign.jpg"
   },
   {
     "nombre": "Pan's Island",
@@ -60,7 +60,7 @@
     "descripcion": "Juego cooperativo ambientado en el mundo de Peter Pan/Neverland: buscá a los niños perdidos usando pistas. Matagot. Nuevo, sellado.",
     "jugadores": "2-5",
     "edad": "10+",
-    "foto": "assets/games/pans-island.jpg"
+    "foto": "pans-island.jpg"
   },
   {
     "nombre": "Ticket to Ride: Europe",
@@ -69,7 +69,7 @@
     "descripcion": "Clásico de construcción de rutas ferroviarias por Europa. Diseño de Alan R. Moon, Days of Wonder. Nuevo, sellado.",
     "jugadores": "2-5",
     "edad": "8+",
-    "foto": "assets/games/ticket-to-ride-europe.jpg"
+    "foto": "ticket-to-ride-europe.jpg"
   },
   {
     "nombre": "Connect 4 (Card Game)",
@@ -78,7 +78,7 @@
     "descripcion": "Versión de cartas del clásico Conecta 4. Hasbro Gaming. Nuevo.",
     "jugadores": "2-4",
     "edad": "6+",
-    "foto": "assets/games/card-games-4pack.jpg"
+    "foto": "card-games-4pack.jpg"
   },
   {
     "nombre": "Clue (Card Game)",
@@ -87,7 +87,7 @@
     "descripcion": "Versión de cartas del clásico juego de misterio y deducción Clue. Hasbro Gaming. Nuevo.",
     "jugadores": "3-4",
     "edad": "8+",
-    "foto": "assets/games/card-games-4pack.jpg"
+    "foto": "card-games-4pack.jpg"
   },
   {
     "nombre": "Guess Who? (Card Game)",
@@ -96,7 +96,7 @@
     "descripcion": "Versión de cartas del clásico juego de adivinar personajes. Hasbro Gaming. Nuevo.",
     "jugadores": "2",
     "edad": "5+",
-    "foto": "assets/games/card-games-4pack.jpg"
+    "foto": "card-games-4pack.jpg"
   },
   {
     "nombre": "Battleship (Card Game)",
@@ -105,7 +105,7 @@
     "descripcion": "Versión de cartas del clásico juego de batalla naval. Hasbro Gaming. Nuevo.",
     "jugadores": "2",
     "edad": "7+",
-    "foto": "assets/games/card-games-4pack.jpg"
+    "foto": "card-games-4pack.jpg"
   },
   {
     "nombre": "Bananagrams",
@@ -114,7 +114,7 @@
     "descripcion": "Juego rápido de formar palabras (tipo Scrabble sin tablero), en su clásica bolsita amarilla con forma de banana. Compacto e ideal para grupos grandes.",
     "jugadores": "1-8",
     "edad": "7+",
-    "foto": "assets/games/bananagrams.jpg"
+    "foto": "bananagrams.jpg"
   },
   {
     "nombre": "Tiny Laser Heist",
@@ -123,7 +123,7 @@
     "descripcion": "Robo de joyas cooperativo con 'manitas' de plástico, evitando láseres elásticos. Very Special Games, 30-45 min. Nuevo, sellado.",
     "jugadores": "3-6",
     "edad": "12+",
-    "foto": "assets/games/tiny-laser-heist.jpg"
+    "foto": "tiny-laser-heist.jpg"
   },
   {
     "nombre": "Bloomchasers",
@@ -132,7 +132,7 @@
     "descripcion": "Juego de estrategia con árbol 3D: colocá ramas y flores para 'florecer' antes que tus rivales. Very Special Games. Nuevo, sellado.",
     "jugadores": "1-6",
     "edad": "12+",
-    "foto": "assets/games/bloomchasers.jpg"
+    "foto": "bloomchasers.jpg"
   },
   {
     "nombre": "Valentine's Day",
@@ -141,7 +141,7 @@
     "descripcion": "Juego de cartas rápido (15 min), Blue Orange Games. Nuevo, sellado.",
     "jugadores": "3-6",
     "edad": "8+",
-    "foto": "assets/games/valentines-day.jpg"
+    "foto": "valentines-day.jpg"
   },
   {
     "nombre": "Mystery Advent Calendar",
@@ -150,7 +150,7 @@
     "descripcion": "Calendario de adviento con un misterio en 24 episodios: 'El viaje de Charlie alrededor del mundo'. Hidden Games. Nuevo, sellado.",
     "jugadores": "1-6",
     "edad": "14+",
-    "foto": "assets/games/mystery-advent-calendar.jpg"
+    "foto": "mystery-advent-calendar.jpg"
   },
   {
     "nombre": "Wavelength",
@@ -159,7 +159,7 @@
     "descripcion": "Juego de percepción y comunicación en equipo: hay que adivinar dónde cae una idea en un espectro. Ideal para grupos grandes. Nuevo, sellado.",
     "jugadores": "2-12",
     "edad": "14+",
-    "foto": "assets/games/wavelength.jpg"
+    "foto": "wavelength.jpg"
   },
   {
     "nombre": "Anomia: Party Edition",
@@ -168,7 +168,7 @@
     "descripcion": "Juego de reacción rápida y asociación de palabras. Uno de los más populares para reuniones sociales. Nuevo, sellado.",
     "jugadores": "3+",
     "edad": "10+",
-    "foto": "assets/games/anomia.jpg"
+    "foto": "anomia.jpg"
   },
   {
     "nombre": "Othello Classic",
@@ -177,7 +177,7 @@
     "descripcion": "Clásico juego de fichas reversibles: 'un minuto para aprender, toda una vida para dominar'. Funskool.",
     "jugadores": "2",
     "edad": "7+",
-    "foto": "assets/games/othello.jpg"
+    "foto": "othello.jpg"
   },
   {
     "nombre": "Lacuna",
@@ -186,7 +186,7 @@
     "descripcion": "Juego de flores en un estanque nocturno, con piezas de madera y fichas metálicas, empacado en un vistoso tubo. CMYK, 10-15 min. Nuevo, sellado.",
     "jugadores": "2",
     "edad": "8+",
-    "foto": "assets/games/lacuna.jpg"
+    "foto": "lacuna.jpg"
   },
   {
     "nombre": "Venn",
@@ -195,7 +195,7 @@
     "descripcion": "Juego de pistas con diagramas de Venn y arte superpuesto. The Op Games, 20-30 min. Nuevo, sellado.",
     "jugadores": "2+",
     "edad": "10+",
-    "foto": "assets/games/venn.jpg"
+    "foto": "venn.jpg"
   },
   {
     "nombre": "Komboid",
@@ -204,7 +204,7 @@
     "descripcion": "Juguete de destreza: hacé rebotar una bola con la muñeca siguiendo combos de tarjetas de reto. Incluye bola de repuesto. Nuevo, sellado.",
     "jugadores": "1+",
     "edad": "8+",
-    "foto": "assets/games/komboid.jpg"
+    "foto": "komboid.jpg"
   },
   {
     "nombre": "Pindaloo",
@@ -213,6 +213,6 @@
     "descripcion": "Juguete de destreza tipo aro con muñequera y bola ('Get in the Loop').",
     "jugadores": "1+",
     "edad": "9+",
-    "foto": "assets/games/pindaloo.jpg"
+    "foto": "pindaloo.jpg"
   }
 ]
