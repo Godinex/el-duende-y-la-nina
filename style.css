@@ -40,19 +40,21 @@ a { color: inherit; }
   padding-bottom: 2px;
 }
 
+.hero-banner {
+  display: block;
+  width: 100%;
+  max-height: 380px;
+  object-fit: cover;
+  object-position: center 35%;
+}
+
 .hero-inner {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 3rem 1.5rem 5rem;
+  padding: 2rem 1.5rem 3rem;
   text-align: center;
   position: relative;
   z-index: 2;
-}
-
-.brand {
-  font-size: clamp(2.2rem, 5vw, 3.4rem);
-  margin: 0 0 0.3rem;
-  letter-spacing: 0.01em;
 }
 
 .tagline {
@@ -68,38 +70,6 @@ a { color: inherit; }
   margin: 0 auto;
   opacity: 0.85;
   line-height: 1.5;
-}
-
-/* walking path animation */
-.path {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 90px;
-  z-index: 1;
-}
-
-.path svg { width: 100%; height: 100%; display: block; }
-
-.walkers {
-  position: absolute;
-  bottom: 18px;
-  left: -120px;
-  width: 90px;
-  animation: walk 14s linear infinite;
-  opacity: 0.95;
-}
-
-.walkers img { width: 100%; display: block; }
-
-@keyframes walk {
-  from { left: -120px; }
-  to { left: 100%; }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .walkers { animation: none; left: 40%; }
 }
 
 /* ---------- Controls ---------- */
@@ -193,6 +163,28 @@ a { color: inherit; }
 
 .badge.nuevo { background: var(--forest); }
 .badge.usado { background: var(--terracotta); }
+
+.views {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-family: 'Karla', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 0.25rem 0.55rem;
+  border-radius: 999px;
+  background: rgba(46, 36, 26, 0.62);
+  color: var(--parchment);
+  backdrop-filter: blur(2px);
+  opacity: 0;
+  transition: opacity 0.25s ease;
+  pointer-events: none;
+}
+
+.views.visible { opacity: 1; }
+
+.card { cursor: pointer; }
 
 .card-body {
   padding: 1.1rem 1.1rem 1.3rem;
