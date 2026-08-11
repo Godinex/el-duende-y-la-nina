@@ -50,7 +50,7 @@ function render() {
       <div class="card-photo">
         ${g.estado ? `<span class="badge ${g.estado}">${g.estado}</span>` : ''}
         <img src="${g.foto}" alt="${g.nombre}" loading="lazy"
-             onerror="this.onerror=null;this.src='assets/placeholder.svg';">
+             onerror="this.onerror=null;this.src='placeholder.svg';">
       </div>
       <div class="card-body">
         <h3>${g.nombre}</h3>
