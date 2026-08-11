@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>El Duende y la Niña — Juegos de mesa</title>
+<meta name="description" content="Colección personal de juegos de mesa en venta. Contactá por WhatsApp o SINPE Móvil.">
+<link rel="icon" href="assets/walkers.svg">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-inner">
+    <h1 class="brand">El Duende y la Niña</h1>
+    <p class="tagline">Juegos de mesa de segunda mano, con cariño</p>
+    <p class="hero-sub">Esta es mi colección personal — cada juego jugado, cuidado y con ganas de encontrar una nueva mesa. Escribime por WhatsApp para separarlo.</p>
+  </div>
+  <div class="path">
+    <div class="walkers"><img src="assets/walkers.svg" alt=""></div>
+  </div>
+</header>
+
+<div class="controls">
+  <input type="text" id="search" placeholder="Buscar un juego...">
+  <select id="filter-estado">
+    <option value="">Todos los estados</option>
+    <option value="nuevo">Nuevo</option>
+    <option value="usado">Usado</option>
+  </select>
+  <select id="sort">
+    <option value="nombre">Ordenar: nombre</option>
+    <option value="precio-asc">Precio: menor a mayor</option>
+    <option value="precio-desc">Precio: mayor a menor</option>
+  </select>
+</div>
+
+<main class="catalog" id="catalog">
+  <!-- las tarjetas se generan con script.js -->
+</main>
+
+<footer>
+  <p>Contacto: WhatsApp — coordinamos entrega y pago.</p>
+  <p>Pago por <span class="sinpe">SINPE Móvil</span>.</p>
+  <p>El Duende y la Niña · Costa Rica</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

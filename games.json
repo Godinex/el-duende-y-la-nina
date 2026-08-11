@@ -1,0 +1,326 @@
+[
+  {
+    "nombre": "Age of Gods",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "3-5",
+    "edad": "12+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Ascension: Chronicle of the Godslayer – Control Room Promo",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "1-4",
+    "edad": "10+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Ascension: Chronicle of the Godslayer – Deep Drone Promo",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-4",
+    "edad": "",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Ascension: Chronicle of the Godslayer – Journeyman Sage Promo",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "1-6",
+    "edad": "",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Ascension: Chronicle of the Godslayer – Nethersnare Promo",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "1-6",
+    "edad": "",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Ascension: Chronicle of the Godslayer – Pathwarden Promo",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-4",
+    "edad": "",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Ascension: Chronicle of the Godslayer – Vedah, Sage of Swords Promo",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-4",
+    "edad": "",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Ascension: Chronicle of the Godslayer – Void Mesmer Promo",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "1-4",
+    "edad": "",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Ascension: Chronicle of the Godslayer – Vortex Promo",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-4",
+    "edad": "",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Ascension: Return of the Fallen – Kythis, the Gatekeeper Promo",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "1-2",
+    "edad": "8",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Ascension: Storm of Souls – Askara of Fortune Promo",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "1-6",
+    "edad": "8+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Atlanteon",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-2",
+    "edad": "10+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "The Binding of Isaac: Four Souls",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-4",
+    "edad": "12+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Condottiere",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-6",
+    "edad": "10+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Cube Quest",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-4",
+    "edad": "5+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Draco Magi",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-2",
+    "edad": "10+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Dreamblade",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-2",
+    "edad": "12+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Epic Card Game",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-4",
+    "edad": "8+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Gloom",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-5",
+    "edad": "10+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Great Wall of China",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-5",
+    "edad": "8+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Gremlins: Gizmo's Great Escape",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-2",
+    "edad": "6+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Hare & Tortoise",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-6",
+    "edad": "8+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Head Full of Numbers",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-2",
+    "edad": "",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Heroes of Graxia",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-6",
+    "edad": "10+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "The Lord of the Rings: The Fellowship of the Ring Deck-Building Game",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-5",
+    "edad": "10+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Oshi",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-2",
+    "edad": "8+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Perfection",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "1-99",
+    "edad": "4–12",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Pictureka!",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-7",
+    "edad": "4+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Roll Through the Ages: The Bronze Age",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "1-4",
+    "edad": "8+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Sapiens",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-4",
+    "edad": "8+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Scrabble Junior",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-4",
+    "edad": "5+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Timbuktu",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "3-5",
+    "edad": "10+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Toledo",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-4",
+    "edad": "8+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Via Appia",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-4",
+    "edad": "8+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "Warhammer 40,000 (Third Edition)",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-6",
+    "edad": "12+",
+    "foto": "assets/placeholder.svg"
+  },
+  {
+    "nombre": "World of Warcraft Trading Card Game",
+    "precio": null,
+    "estado": "",
+    "descripcion": "",
+    "jugadores": "2-2",
+    "edad": "10+",
+    "foto": "assets/placeholder.svg"
+  }
+]
